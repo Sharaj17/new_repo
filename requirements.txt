@@ -13,6 +13,7 @@ click==8.1.7
 colorama==0.4.6
 comm==0.2.0
 cycler==0.12.1
+Cython
 debugpy==1.8.0
 decorator==5.1.1
 dm-tree==0.1.8
@@ -52,7 +53,7 @@ multitasking==0.0.11
 namex==0.0.7
 nest-asyncio==1.5.8
 numba==0.59.0
-numpy==1.26.3
+numpy
 opencv-python==4.5.5.62
 opt-einsum==3.3.0
 packaging==23.2
