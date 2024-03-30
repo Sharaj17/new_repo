@@ -8,7 +8,7 @@ from tensorflow.keras.applications.resnet import preprocess_input
 # Function to load the selected model
 def load_selected_model(selected_model):
     if selected_model == 'HybridModel':
-        return load_model('model_hybrid_1.keras')
+        return load_model('../model_hybrid_1.keras')
     elif selected_model == 'ResNet':
         return load_model('model_resnet.keras')
     elif selected_model == 'EfficientNet':
