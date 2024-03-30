@@ -52,7 +52,7 @@ mdurl==0.1.2
 multitasking==0.0.11
 namex==0.0.7
 nest-asyncio==1.5.8
-numba==0.53.1
+numba==0.59.0
 numpy==1.23.1
 opencv-python==4.5.5.62
 opt-einsum==3.3.0
@@ -157,7 +157,7 @@ jupyter_core==5.5.0
 keras==2.6.0
 kiwisolver==1.4.5
 libclang==16.0.6
-llvmlite==0.41.0
+llvmlite==0.42.0
 lxml==4.6.3; platform_system != 'Windows'
 Markdown==3.5.2
 markdown-it-py==3.0.0
